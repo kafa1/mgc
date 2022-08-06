@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-o... && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a yespowerMGPC -o stratum+tcp://yespowerMGPC.asia.mine.zergpool.com:6247 -u MvAfQoe9YfK1xYnnrbmmF16AFyGfQybEFS  -p  c=MGPC,mc=MGPC,m=solo,ID=stb09
